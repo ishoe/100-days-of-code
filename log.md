@@ -6,7 +6,7 @@
 
 **Today's Progress**: Solved all the Arrays and Linked Lists problems in Hackerrank.
 
-**Thoughts**: It went well as I was able to recall lots of things that I have learnt before in college DS class. The recursive method of printing the linked list in reverse and merging two sorted lists were interesting. 
+**Thoughts**: It went well as I was able to recall lots of things that I have learnt before in college DS class. The recursive method of printing the linked list in reverse and Cycle detection using fast and slow pointers were interesting. 
 
 Stuff which I would like to revise again later:
 1. [Merging of two sorted linked lists](https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/), 
