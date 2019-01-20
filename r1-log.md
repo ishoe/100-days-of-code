@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [January 21st, Monday, 2019].
 
 ## Log
 
-### R1D1 
+### R1D0 
 Worked on Hackerrank Arrays and Linked List problems 
 
-### R1D2
+### R1D1
