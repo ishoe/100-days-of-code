@@ -4,11 +4,11 @@
 ### Day 0: January 21, 2019 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Solved all the Arrays and Linked Lists problems in Hackerrank.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: It went well as it was basic stuff and I have learnt it before in college.  
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Hackerrank (Arrays and Linked List)](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays&filters%5Bsubdomains%5D%5B%5D=linked-lists)
 
 
 ### Day 1: June 27, Monday
