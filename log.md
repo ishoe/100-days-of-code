@@ -2,7 +2,7 @@
 
 
 ### Day 1: January 20, 2019 
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Solved all the Arrays and Linked Lists problems in Hackerrank.
 
@@ -17,7 +17,7 @@ Stuff which I would like to revise again later:
 
 
 ### Day 2: January 21, 2019 
-##### (delete me or comment me out)
+
 
 **Today's Progress**: 
 
