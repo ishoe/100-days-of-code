@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Aishwarya]
 
-The log of my #100DaysOfCode challenge. Started on [January 21st, Monday, 2019].
+The log of my #100DaysOfCode challenge. Started on [January 20th, Sunday, 2019].
 
 ## Log
 
