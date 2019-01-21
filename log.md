@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 0: January 21, 2019 (Example 2)
+### Day 0: January 20, 2019 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Solved all the Arrays and Linked Lists problems in Hackerrank.
@@ -16,3 +16,13 @@ Stuff which I would like to revise again later:
 **Link(s) to work**: [Hackerrank (Arrays and Linked List)](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays&filters%5Bsubdomains%5D%5B%5D=linked-lists)
 
 
+### Day 1: January 21, 2019 
+##### (delete me or comment me out)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+
+**Link(s) to work**:
