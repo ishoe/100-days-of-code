@@ -27,14 +27,11 @@ In finding *height of binary tree* it was interesting to note that if you want t
 
 Problems in stacks were pretty straight forward. 
 
- 
-
 Revise again later:
-1. [Lowest Common Ancestor] (https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)
-2. [Swap Algo]
-3. [Game of Two Stacks]
-4. [Waiter]
+1. [Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)
+2. [Swap Algo]()
+3. [Game of Two Stacks]()
+4. [Waiter]()
 
 
-
-**Link(s) to work**:
+**Link(s) to work**: [Hackerrank (Trees and Stacks)](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=trees&filters%5Bsubdomains%5D%5B%5D=stacks)
