@@ -35,3 +35,11 @@ Revise again later:
 
 
 **Link(s) to work**: [Hackerrank (Trees and Stacks)](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=trees&filters%5Bsubdomains%5D%5B%5D=stacks)
+
+### Day 3: January 22, 2019 
+
+**Today's Progress**: Did HTML, CSS and Visual Design sections in FCC and solved 1 stack problem.
+
+**Thoughts**: Not a lot but I showed up. Need to step it up. 
+
+
