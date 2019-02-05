@@ -42,4 +42,4 @@ Revise again later:
 
 **Thoughts**: Not a lot but I showed up. Need to step it up. 
 
-
+Futhur Updates are on my twitter account: www.twitter.com/ishoe
