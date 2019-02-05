@@ -41,5 +41,7 @@ Revise again later:
 **Today's Progress**: Did HTML, CSS and Visual Design sections in FCC and solved 1 stack problem.
 
 **Thoughts**: Not a lot but I showed up. Need to step it up. 
+------------------------------------------------------------------------------------------------
+
 
 Futhur Updates are on my twitter account: www.twitter.com/ishoe
