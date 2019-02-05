@@ -44,4 +44,4 @@ Revise again later:
 ------------------------------------------------------------------------------------------------
 
 
-Futhur Updates are on my twitter account: www.twitter.com/ishoe
+Future Updates for #100DaysOfCode will be on my twitter account: www.twitter.com/ishoe 
